@@ -8,7 +8,9 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 Pneumonia is a severe respiratory infection that affects the lungs and can be life-threatening, especially for children and the elderly. Early and accurate detection is crucial for effective treatment. This project aims to automate the diagnosis of pneumonia by analyzing chest X-ray images using deep learning techniques.
 
 # Model Architecture
-The model is built using a convolutional neural network (CNN), which is well-suited for image classification tasks. The architecture includes several convolutional layers followed by max-pooling layers and fully connected layers. The model is trained to minimize binary cross-entropy loss and uses accuracy as the evaluation metric.
+* The model is built using a convolutional neural network (CNN), which is well-suited for image classification tasks. 
+* The architecture includes several convolutional layers followed by max-pooling layers and fully connected layers.
+* The model is trained to minimize binary cross-entropy loss and uses accuracy as the evaluation metric.
 
 # Key Components:
 * Convolutional Layers: Extract features from the input images.
